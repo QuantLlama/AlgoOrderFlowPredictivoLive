@@ -13,7 +13,7 @@
 - [Gestión de Riesgo](#-gestión-de-riesgo)
 - [Estructura del Proyecto](#-estructura-del-proyecto)
 - [Instalación y Configuración](#-instalación-y-configuración)
-- [Uso](#-uso)
+- [Uso](#-uso) 
 - [Licencia](#-licencia)
 - [Contacto](#-contacto)
 
